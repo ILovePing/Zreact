@@ -1,0 +1,24 @@
+{
+  "name": "zreact",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhouri <654015195@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.souche-inc.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "snabbdom": "^0.7.4"
+  }
+}
