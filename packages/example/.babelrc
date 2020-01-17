@@ -1,0 +1,9 @@
+{
+  // "presets": ["@babel/preset-env"],
+  // "plugins": [
+  //   ["@babel/plugin-transform-react-jsx", {
+  //     "pragma": "Zreact.createElement", // default pragma is React.createElement
+  //     "throwIfNamespace": false // defaults to true
+  //   }]
+  // ]
+}
